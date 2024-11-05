@@ -4,4 +4,5 @@ This repo contains the presentation given by **Rachael Kostelecky** and **Natasi
 
 ## Today's Sponsor
 **Project Bridge Colorado**
+
 The goal of the [Project Bridge](https://www.cuanschutz.edu/services/project-bridge) organization is to bridge the communication gap between scientists and their communities by creating and supporting opportunities to foster public interest in scientific research. 
